@@ -1,6 +1,10 @@
-# **Software Engineer Salary Analysis App**  
+<h1 align="center"># **Software Engineer Salary Analysis App**</h1>
 
-![Software Engineer Salary Prediction App](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY07YGcmEOEqtegF8aqJ2KimVj9sCqAQlbeA&s)
+<p align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY07YGcmEOEqtegF8aqJ2KimVj9sCqAQlbeA&s" alt="Software Engineer Salary Prediction App" />
+</p>
+
+# 2024 Software Engineer Salary Analysis
 
 A **Streamlit web app** that explores **Software Engineer salaries** using data from the **Stack Overflow Developer Survey 2024**.  
 
