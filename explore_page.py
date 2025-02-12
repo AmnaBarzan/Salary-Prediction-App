@@ -31,7 +31,7 @@ def clean_education(x):
 @st.cache_data
 def load_data():
     # Read CSV from zip file
-    with zipfile.ZipFile("C:/Users/User/Desktop/VS/SalaryPredictionAPP/App/survey_results_public.zip", 'r') as z:
+    with zipfile.ZipFile("survey_results_public.zip", 'r') as z:
         with z.open("survey_results_public.csv") as f:
             df = pd.read_csv(f)
     df = df[['Country','EdLevel','YearsCodePro','Employment','ConvertedCompYearly']]
