@@ -1,5 +1,4 @@
-<h1 align="center">Software Engineer Salary Analysis App [Click here](https://mq88s8s3amoeuaox7yvddb.streamlit.app/)
-</h1>
+<h1 align="center">Software Engineer Salary Analysis App <a href="https://mq88s8s3amoeuaox7yvddb.streamlit.app/" target="_blank">Click here</a></h1>
 
 <p align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY07YGcmEOEqtegF8aqJ2KimVj9sCqAQlbeA&s" alt="Software Engineer Salary Prediction App" />
